@@ -1,4 +1,3 @@
-/*
 package com.frankmoley.security.app;
 
 import org.springframework.context.annotation.Configuration;
@@ -20,5 +19,6 @@ public class ApplicationSecurityConfigurationAdapter  extends WebSecurityConfigu
                 .and()
                 .httpBasic();
     }
+
+
 }
-*/
