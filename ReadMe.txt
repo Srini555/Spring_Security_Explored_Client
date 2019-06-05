@@ -1,0 +1,1 @@
+https://www.browserling.com/tools/bcrypt  -- Used to generate bcrypt
